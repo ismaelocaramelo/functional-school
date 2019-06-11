@@ -71,7 +71,7 @@ const times2 = input => input * 2
 
 const genericLogger = anyFunc => input => {
   console.log(`input is ${input}`) //log the input
-  const result = innerCalculator(input) // evaluate the function
+  const result = anyFunc(input) // evaluate the function
   console.log(`result is ${result}`) //log the result
   return result //return the result
 }
