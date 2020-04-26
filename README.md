@@ -13,4 +13,4 @@
 - Pureness
 - Partial application
 
-//TODO: Chapter 07
+//TODO: Chapter 08
