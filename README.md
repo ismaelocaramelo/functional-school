@@ -13,4 +13,5 @@
 - Pureness
 - Partial application
 
-//TODO: Chapter 08
+//TODO: Add Either Monad
+https://jrsinclair.com/articles/2019/elegant-error-handling-with-the-js-either-monad/
