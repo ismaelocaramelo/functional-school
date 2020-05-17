@@ -13,4 +13,5 @@
 - Pureness
 - Partial application
 
-//TODO: Capitulo 10
+//TODO:
+https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html
